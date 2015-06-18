@@ -2,6 +2,7 @@
   "name": "promising-http-client",
   "description": "wraps HTTP client libraries in Promises",
   "version": "0.0.1",
+  "private": false,
   "dependencies": {
     "bluebird": "~2.9.30"
   },
